@@ -1,0 +1,23 @@
+/* src/App.css */
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.8em;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
